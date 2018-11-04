@@ -1,4 +1,4 @@
-# plotly_basics
+# Plotly using Python
 Basic code to understand how plotly works
 
 ### Commands
